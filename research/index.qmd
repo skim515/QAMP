@@ -3,7 +3,7 @@ title: " "
 format: html
 ---
 
-## PAPERS
+# PAPERS
 
 Lee, S., & Kim, S. (2026). Comparing Bayesian random coefficient prediction and latent interaction models for multilevel moderated mediation. Frontiers in Psychology: Quantitative Psychology and Measurement, 16: 1543330.
 
@@ -45,7 +45,7 @@ Kim, S., & Hong, S. (2013). Identifying latent profile in vacation preparation b
 
 Kim, S., & Hong, S. (2012). Identifying and predicting trajectories of latent class in adolescents’ suicidal ideation. Studies on Korean Youth, 23(1), 251–275.
 
-## CONFERENCE
+# CONFERENCE
 
 Ryu, H., & Kim, S. (2025). Comparison of RDSEM approaches in continuous-time and discrete-time. International Meeting of the Psychometric Society. Minneapolis, MN, US.
 
@@ -67,7 +67,7 @@ No, U., Kim, S., & Hong, S. (2017). Applying competing risk discrete-time event 
 
 Kim, S., Jang, y., & Hong, S. (2016). The causal effects of latent classes of job preparation efforts on employment outcomes: Focusing on the wages and the job satisfaction. Korean Psychological Association: Measurement and Evaluation. Seoul, Korea.
 
-Kim, S., Lee, S., & Hong, S. (2016). Relational analysis of internal schooling and achievement to evaluate school effectiveness. American Educational Research Association. Washington D.C.
+Kim, S., Lee, S., & Hong, S. (2016). Relational analysis of internal schooling and achievement to evaluate school effectiveness. American Educational Research Association. Washington D.C. US.
 
 Kim, S. (2015). Effects of school context factors about cognitive/affective achievement. Paper presented at the annual meeting of the National Assessment of Educational Achievement Data Analysis Symposium. Seoul, Korea.
 

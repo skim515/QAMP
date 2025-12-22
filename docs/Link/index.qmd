@@ -1,0 +1,45 @@
+---
+title: "Useful Resources"
+format: html
+---
+
+\
+\
+\
+
+## Applet 
+
+#### Guessing correlation coefficients 
+https//shiney.zoology.ubc.ca/whitlock/Guessing_correlation/ \
+
+#### Correlation (r-Psychology) 
+https//rpsychologist.com/correlation/ \
+
+#### Partitioning of variability in regression 
+https//melbapplets.ms.unimelb.edu.au/2021/07/12/partitioning-of-variability-in-regression/\
+
+#### Sampling distribution 
+https//www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm \
+
+#### T family distribution 
+https//www.statcrunch.com/applets/type2&tdist \
+
+#### Confidence Interval 
+https//rpsychologist.com/d3/ci/ \
+
+#### Bootstrap 
+https//seeing-theory.brown.edu/frequentist-inference/index.html#section3 \
+
+#### PROCESS macro 
+https//haskayne.ucalgary.ca/CCRAM/resource-hub \
+
+#### Power of a hypothesis test 
+https//melbapplets.ms.unimelb.edu.au/2021/07/12/power-of-a-hypothesis-test/ \
+
+#### Demo P-Z Converter 
+https//wise.cgu.edu/portfolio2/demo-p-z-converter/ \
+
+#### G*Power 
+https//www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower \
+
+

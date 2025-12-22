@@ -9,12 +9,10 @@ format: html
 Assistant professor\
 Department of Psychology\
 Chonnam National University\
-Email: soyoungkim \[at\] jnu.ac.kr
-
-Ph.D. Educational Measurement and Statistics. 2018, Korea University\
-M.A. Educational Measurement and Statistics. 2013, Korea University\
-B.A. Psychology. 2010, Korea University\
-B.A. Home Economics Education. 2010, Korea University
+Email: soyoungkim(at)jnu.ac.kr\
+   \
+   \
+   
 
 # Current Members
 
