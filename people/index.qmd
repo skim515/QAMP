@@ -3,29 +3,21 @@ title: " "
 format: html
 ---
 
-# Lab Director  
-  
-**김소영**  (soyoung kim)  
-Assistant professor  
-Department of Psychology  
-Chonnam National University  
-Email: soyoungkim [at] jnu.ac.kr  
-   
-   
-   
-Ph.D.  Educational Measurement and Statistics. 2018, Korea University  
-M.A.  Educational Measurement and Statistics. 2013, Korea University  
-B.A.  Psychology. 2010, Korea University  
-B.A.  Home Economics Education. 2010, Korea University  
-   
-   
-   
-   
+# Lab Director
+
+**김소영** (soyoung kim)\
+Assistant professor\
+Department of Psychology\
+Chonnam National University\
+Email: soyoungkim \[at\] jnu.ac.kr
+
+Ph.D. Educational Measurement and Statistics. 2018, Korea University\
+M.A. Educational Measurement and Statistics. 2013, Korea University\
+B.A. Psychology. 2010, Korea University\
+B.A. Home Economics Education. 2010, Korea University
+
 # Current Members
-   
+
 **류호성** 석사과정
-   
-   
-   
-   
-# Alumi
+
+
