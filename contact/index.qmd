@@ -1,0 +1,32 @@
+---
+title: "Contact"
+format: html
+---
+
+### Email
+
+soyoungkim\[at\]jnu.ac.kr
+
+
+### Address
+
+Social Science Building #257
+Chonnam National University
+77 Yongbong-ro, Buk-gu, Gwangju
+61186
+
+```{r, echo=F}
+#| message: false
+#| warning: false
+#| paged-print: false
+library(leaflet)
+
+leaflet() |>
+  addTiles() |>
+  addMarkers(
+    lng = 126.906,
+    lat = 35.176, 
+    popup = "Chonnam National University"
+  )
+
+```

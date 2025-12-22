@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 55555
+
+website:
+  title: "QAMP"
+  description: "Nothing"
+  cookie-consent: TRUE
+  page-footer: "Copyright© 2025 Soyoung Kim."
+#  announcement: 
+#    content: "This site is under construction."
+  
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: News
+        href: news/index.qmd
+
+format:
+  html:
+    theme:
+      - brand
+    #css: styles.css
+    toc: true
+
+editor: visual
+
