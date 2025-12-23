@@ -5,15 +5,14 @@ format: html
 
 # Lab Director
 
-**김소영** (soyoung kim)\
+#### 김소영 (Kim, soyoung)
 Assistant professor\
 Department of Psychology\
 Chonnam National University\
 Email: soyoungkim(at)jnu.ac.kr\
-   \
-   \
-   
+\
+\
 
-# Current Members
+# Current Member
 
-**류호성** 석사과정
+#### 류호성 (Ryu, Hosung) -- M.A. student 

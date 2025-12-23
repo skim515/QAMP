@@ -3,7 +3,7 @@ title: " "
 format: html
 ---
 
-# PAPERS
+# Papers
 
 Lee, S., & Kim, S. (2026). Comparing Bayesian random coefficient prediction and latent interaction models for multilevel moderated mediation. Frontiers in Psychology: Quantitative Psychology and Measurement, 16: 1543330.
 
@@ -43,17 +43,18 @@ Kim, S., & Hong, S. (2014). Estimating adolescent’s changes in mobile phone de
 
 Kim, S., & Hong, S. (2013). Identifying latent profile in vacation preparation behaviors of vocational high school students and testing its relationship with vocational education. Survey Research, 14(1), 93–116.
 
-Kim, S., & Hong, S. (2012). Identifying and predicting trajectories of latent class in adolescents’ suicidal ideation. Studies on Korean Youth, 23(1), 251–275.
-
-# CONFERENCE
+Kim, S., & Hong, S. (2012). Identifying and predicting trajectories of latent class in adolescents’ suicidal ideation. Studies on Korean Youth, 23(1), 251–275.  
+  
+  
+# Presentations
 
 Ryu, H., & Kim, S. (2025). Comparison of RDSEM approaches in continuous-time and discrete-time. International Meeting of the Psychometric Society. Minneapolis, MN, US.
 
 Kim, S. (2025). Cross-classified Mediation Model with a Between-person Predictor. International Meeting of the Psychometric Society. Minneapolis, MN, US.
 
-Chung, Y., Song. J., & Kim, S. (2020). Changes of achievement goal profiles across school transitions: Antecedents and consequences. European Congress of Methodology (VIRTUAL PHASE)
+Chung, Y., Song. J., & Kim, S. (2020). Changes of achievement goal profiles across school transitions: Antecedents and consequences. European Congress of Methodology (Virtual phase)
 
-Kim, S. (2020). The effects of modeling without a crossed-factor in the cross-classified random effect model. European Congress of Methodology (VIRTUAL PHASE)
+Kim, S. (2020). The effects of modeling without a crossed-factor in the cross-classified random effect model. European Congress of Methodology (Virtual phase)
 
 Kim, S. (2019). Latent transition between the profiles of parenting styles and the growth classes of task values. Korean Children and Youth Panel Survey Conference. Seoul, Korea.
 
