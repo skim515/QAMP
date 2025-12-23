@@ -5,7 +5,7 @@ format: html
 
 # Lab Director
 
-#### 김소영 (Kim, soyoung)
+#### 김소영 (Kim, Soyoung)
 Assistant professor\
 Department of Psychology\
 Chonnam National University\
