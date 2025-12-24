@@ -22,8 +22,8 @@ website:
         href: research/index.qmd
       - text: News
         href: news/index.qmd
-      - text: Links
-        href: links/index.qmd
+      # - text: Links
+      #   href: links/index.qmd
 
 format:
   html:
