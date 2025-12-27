@@ -14,8 +14,8 @@ website:
   
   navbar:
     right:
-      - text: Home
-        href: index.qmd
+      - text: Home 
+        href: index.qmd 
       - text: About
         href: about/index.qmd
       - text: People

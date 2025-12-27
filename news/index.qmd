@@ -11,14 +11,15 @@ format: html
 
 # 2025
 
-07 . Presentation at the International Meeting of the Psychometric Society — Hosung Ryu (M.A. Student)\
+07 . Presentation at the International Meeting of the Psychometric Society — Hosung Ryu (M.A. Student) \
 \
 06 . Selected as an Outstanding Teaching Professor at Chonnam National University — Prof. Soyoung Kim\
 \
-04 . Graduate Student Poster Presentation, Spring Conference of the Korean Society for Psychometrics and Assessment; Best Poster Award — Hosung Ryu (M.A. Student)\
+04 . Graduate Student Poster Presentation, Spring Conference of the Korean Society for Psychometrics  and Assessment; Best Poster Award — Hosung Ryu (M.A. Student)
+[![](link1.png){width="30px"}](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=148&bbsMode=view&key=8571){target="_blank"}
+\
 \
 
 # 2024
 
-09 . Graduate Student Competition, Korean Children Panel Conference; Encouragement Award — Hosung Ryu, Hayeon Kim (M.A. Students)
-
+09 . Graduate Student Competition, Korean Children Panel Conference; Encouragement Award — Hosung Ryu, Hayeon Kim (M.A. Students) [![](link1.png){width="30px"}](https://blog.naver.com/yeschonnam/223609724180){target="_blank"}
