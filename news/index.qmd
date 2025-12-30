@@ -11,15 +11,25 @@ format: html
 
 # 2025
 
-07 . Presentation at the International Meeting of the Psychometric Society — Hosung Ryu (M.A. Student) \
-\
+07 . Presentation at the International Meeting of the Psychometric Society — Hosung Ryu (M.A. Student)\
+
 06 . Selected as an Outstanding Teaching Professor at Chonnam National University — Prof. Soyoung Kim\
-\
-04 . Graduate Student Poster Presentation, Spring Conference of the Korean Society for Psychometrics  and Assessment; Best Poster Award — Hosung Ryu (M.A. Student)
-[![](link1.png){width="30px"}](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=148&bbsMode=view&key=8571){target="_blank"}
-\
-\
+
+04 . Graduate Student Poster Presentation, Spring Conference of the Korean Society for Psychometrics and Assessment; Best Poster Award — Hosung Ryu (M.A. Student) [![](link2.png){width="20px"}](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=148&bbsMode=view&key=8571){target="_blank"}\
+
+
+<!-- 07 . 국제심리측정학회 (International Meeting of the Psychometric Society)에서 발표 — 류호성 석사과정\ -->
+<!-- \ -->
+<!-- 06 . 전남대학교 교육우수교원 선정 — 김소영 교수\ -->
+<!-- \ -->
+<!-- 04 . 한국심리측정평가학회, 대학원생 포스터 발표, 최우수상 수상 — 류호성 석사과정  [![](link2.png){width="20px"}](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=148&bbsMode=view&key=8571){target="_blank"}\ -->
+
+
 
 # 2024
 
-09 . Graduate Student Competition, Korean Children Panel Conference; Encouragement Award — Hosung Ryu, Hayeon Kim (M.A. Students) [![](link1.png){width="30px"}](https://blog.naver.com/yeschonnam/223609724180){target="_blank"}
+09 . Graduate Student Competition, Korean Children Panel Conference; Encouragement Award — Hosung Ryu, Hayeon Kim (M.A. Students)  [![](link2.png){width="20px"}](https://blog.naver.com/yeschonnam/223609724180){target="_blank"}
+
+<!-- 09 . 한국아동패널, 대학원생 논문경진대회, 장려상 수상 - 김하연, 류호성 석사과정 [![](link2.png){width="20px"}](https://blog.naver.com/yeschonnam/223609724180){target="_blank"}\ -->
+
+

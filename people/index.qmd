@@ -8,7 +8,7 @@ format: html
 #### 김소영 (Kim, Soyoung)
 
 Assistant professor\
-Department of Psychology [![](home.png){width="20px"}](https://psyche.jnu.ac.kr/psyche/9160/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRnBzeWNoZSUyRjE4MSUyRmxpc3QuZG8lM0Y%3D#none){target="_blank"}\
+Department of Psychology [![](link2.png){width="20px"}](https://psyche.jnu.ac.kr/psyche/9160/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRnBzeWNoZSUyRjE4MSUyRjE4OTQlMkZ2aWV3LmRvJTNG){target="_blank"}\
 Chonnam National University\
 Email: soyoungkim(at)jnu.ac.kr\
 \
