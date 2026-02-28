@@ -33,7 +33,7 @@ Hong, S., & Kim, S. (2019). Comparisons of multilevel modeling and structural eq
 
 Kim, S., & Hong, S. (2018). The effects of school contexts and student characteristics on cognitive and affective achievement in South Korea. Asia Pacific Educational Research, 19(4), 557–572. DOI: 10.1007/s12564-018-9557-2
 
-Kim, S., Nam, Y., & Hong, S. (2018). Casual effects of youth employment policies on the latent classes of job satisfaction. Survey Research, 19(4), 35–74.
+Kim, S., Nam, Y., & Hong, S. (2018). Causal effects of youth employment policies on the latent classes of job satisfaction. Survey Research, 19(4), 35–74.
 
 Kim, S., Jang, Y., & Hong, S. (2016). The causal effects of latent classes of job preparation efforts on employment outcomes: Focusing on the wages and the job satisfaction. Survey Research, 17(4), 1–33.
 
@@ -43,9 +43,8 @@ Kim, S., & Hong, S. (2014). Estimating adolescent’s changes in mobile phone de
 
 Kim, S., & Hong, S. (2013). Identifying latent profile in vacation preparation behaviors of vocational high school students and testing its relationship with vocational education. Survey Research, 14(1), 93–116.
 
-Kim, S., & Hong, S. (2012). Identifying and predicting trajectories of latent class in adolescents’ suicidal ideation. Studies on Korean Youth, 23(1), 251–275.  
-  
-  
+Kim, S., & Hong, S. (2012). Identifying and predicting trajectories of latent class in adolescents’ suicidal ideation. Studies on Korean Youth, 23(1), 251–275.
+
 # Presentations
 
 Ryu, H., & Kim, S. (2025). Comparison of RDSEM approaches in continuous-time and discrete-time. International Meeting of the Psychometric Society. Minneapolis, MN, US.
